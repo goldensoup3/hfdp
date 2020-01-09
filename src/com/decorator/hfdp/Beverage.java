@@ -7,5 +7,5 @@ public abstract class Beverage {
         return description;
     }
 
-    public
+    public abstract double cost();
 }
